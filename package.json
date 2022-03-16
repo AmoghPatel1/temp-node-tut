@@ -1,0 +1,11 @@
+{
+  "name": "amogh-node",
+  "version": "1.0.0",
+  "description": "following node tutorial on youtube from freecodecamp.channel.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amogh Patel",
+  "license": "ISC"
+}
