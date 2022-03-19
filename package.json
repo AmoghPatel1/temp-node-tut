@@ -4,8 +4,15 @@
   "description": "following node tutorial on youtube from freecodecamp.channel.",
   "main": "1-intro.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amogh Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
